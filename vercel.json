@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/", "dest": "/chaifully-video-script.html" }
+  ]
+}
